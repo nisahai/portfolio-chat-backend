@@ -22,12 +22,28 @@ function loadSystemPrompt() {
   }
 }
 
+// ── Load personal info about Nisah ─────────────────────────
+function loadAboutNisah() {
+  try {
+    const filePath = path.join(__dirname, 'about-nisah.txt');
+    return fs.readFileSync(filePath, 'utf8');
+  } catch (err) {
+    console.error('Could not load about-nisah.txt:', err.message);
+    return '';
+  }
+}
+
 // ── Chat endpoint ──────────────────────────────────────────
 app.post('/chat', async (req, res) => {
   const { messages, portfolioContext } = req.body;
 
-  // Build final system prompt: file + live website content
+  // Build final system prompt: rules + personal info + live website content
   let systemPrompt = loadSystemPrompt();
+
+  const aboutNisah = loadAboutNisah();
+  if (aboutNisah.trim().length > 0) {
+    systemPrompt += `\n\n---\nADDITIONAL INFORMATION ABOUT NISAH:\n\n${aboutNisah}`;
+  }
 
   if (portfolioContext && portfolioContext.trim().length > 0) {
     systemPrompt += `\n\n---\nHere is the current live content from the portfolio website. Use this as your primary source of truth when answering questions:\n\n${portfolioContext.slice(0, 6000)}`;
