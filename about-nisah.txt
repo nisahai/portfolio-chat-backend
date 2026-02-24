@@ -27,13 +27,9 @@ TOOLS & TECHNOLOGIES:
 - Generative AI tools (ChatGPT, Claude, Copilot)
 
 KEY ACHIEVEMENTS:
-- [e.g. Led a team of X support agents across X countries]
-- [e.g. Reduced ticket resolution time by X% through AI automation]
-- [e.g. Built and deployed an AI support agent used by X users]
-
-NOTABLE PROJECTS:
-- [Project name]: [Brief description and outcome]
-- [Project name]: [Brief description and outcome]
+- Led a team of 10 support agents globally
+- Reduced number of data inaccuracy issues by initiating an auto job re-run for job failures
+- Reduced missed alerts and improve response times by creating clear protocols and training
 
 WHAT NISAH IS OPEN TO:
 - Senior leadership roles in support/operations
@@ -61,3 +57,9 @@ A: The best way is via LinkedIn or the contact form available in my website
 
 Q: What industries have you worked in?
 A: I worked across adtech, media, and technology sectors. Before this, I was working at META.
+
+Q: What makes one to be a successful support person?
+A: A support person need to be able to emphatise with the customers and can troubleshoot well.
+
+Q: What makes a good leader?
+A: A good leader balances people, inclusion, and execution. Great leaders make people feel safe, heard, and aligned — and somehow still get results without needing superhero capes.
