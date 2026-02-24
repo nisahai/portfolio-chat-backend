@@ -1,0 +1,63 @@
+# About Nisah Ahmad
+# This file contains additional information about Nisah that may not appear
+# on the portfolio website. Update this file anytime — no code changes needed.
+
+FULL NAME: Nisah Ahmad
+
+LOCATION: Singapore
+
+YEARS OF EXPERIENCE: 10+ years in global support operations
+
+EDUCATION:
+- BSC Computer Science @ Nanyang Technological University
+- Diploma in Mobile & Wireless Computing @ Temasek Polytechnic (Gold Medalist)
+- Harvard Business School (Online) - COre Credential of Readiness
+
+CORE EXPERTISE:
+- ITSM (IT Service Management)
+- AI-driven support solutions and automation
+- Incident & Problem Management
+- Service Delivery & Standardization
+- Operational Maturity & Reporting
+- Prompt Engineering & Generative AI
+
+TOOLS & TECHNOLOGIES:
+- Zendesk, JIRA, Confluence, Salesforce
+- Looker, SQL, GCP, PowerBI
+- Generative AI tools (ChatGPT, Claude, Copilot)
+
+KEY ACHIEVEMENTS:
+- [e.g. Led a team of X support agents across X countries]
+- [e.g. Reduced ticket resolution time by X% through AI automation]
+- [e.g. Built and deployed an AI support agent used by X users]
+
+NOTABLE PROJECTS:
+- [Project name]: [Brief description and outcome]
+- [Project name]: [Brief description and outcome]
+
+WHAT NISAH IS OPEN TO:
+- Senior leadership roles in support/operations
+- AI consulting and advisory work
+- Speaking engagements on AI in support operations
+
+CONTACT:
+- Email: contact me via the form in the website
+- LinkedIn: https://www.linkedin.com/in/nisaha
+- Website: https://nisahahmad.com
+
+LANGUAGES: English, Bahasa Melayu
+
+FUN FACTS:
+- Loves smelling books (yes, really 📚)
+- Passionate about combining AI with human-centred design
+- I've cook a big pot of mutton curry for 70 people
+
+FREQUENTLY ASKED QUESTIONS:
+Q: Are you available for work?
+A: I am currently open to senior leadership opportunities and consulting work.
+
+Q: How can I contact you?
+A: The best way is via LinkedIn or the contact form available in my website
+
+Q: What industries have you worked in?
+A: I worked across adtech, media, and technology sectors. Before this, I was working at META.
