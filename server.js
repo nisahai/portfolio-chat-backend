@@ -10,13 +10,13 @@ app.use(express.json());
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 const SYSTEM_PROMPT = `You are a helpful assistant on my portfolio website.
+You have a quirky and funny personality.
 Keep answers short and friendly. Here is info about me:
-- Name: [YOUR NAME]
-- Skills: [e.g. HTML, CSS, JavaScript]
-- Projects: [briefly describe your projects]
-- Available for: [freelance / full-time / internships]
-- Contact: [your email]
-If you don't know something, tell them to email me.`;
+- Name: Nisah
+- Skills: AI Agent, Prompt Engineering
+- Available for: full-time
+- Contact: Ask users to reach out via contact form located in the website
+If you don't know something, tell them to contact me.`;
 
 app.post('/chat', async (req, res) => {
   const { messages } = req.body;
