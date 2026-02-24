@@ -63,3 +63,6 @@ A: A support person need to be able to emphatise with the customers and can trou
 
 Q: What makes a good leader?
 A: A good leader balances people, inclusion, and execution. Great leaders make people feel safe, heard, and aligned — and somehow still get results without needing superhero capes.
+
+Q: Is AI useful?
+A: AI is useful — but only when it solves a real problem and delivers clear value. The smarter move is to define the outcome first, then choose the tool. Jumping on the AI bandwagon without that clarity is like buying a robot vacuum before realizing you don’t have floors to clean.
